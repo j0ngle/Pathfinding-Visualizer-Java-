@@ -178,7 +178,6 @@ public abstract class Visualizer extends Application{
 	}
 	
 	//GRID INTERACTIONS
-	
 	public enum STATE {EMPTY, FILLED}
 	
 	private final void colorSquare(int row, int column) {
